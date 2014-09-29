@@ -1,0 +1,14 @@
+{
+"title": "InfoMine",
+"members": [
+{ "name": "Rasmus Christiansen",
+"study_number": "s123344"
+},
+{ "name": "Henrik Holm",
+"study_number": "s103214"
+}
+],
+"git": "git@github.com:henrikholm89/dataMiningUsingPython.git",
+"description": "",
+"modules": ["nltk", "sklearn", "BeautifulSoup", ""]
+} 
