@@ -1,0 +1,27 @@
+- article
+id
+title
+breadcrumb
+section (Indland)
+author
+date
+subject
+organisation
+recommendations (users)
+comments (recommendations (users))
+
+
+
+- comment
+id
+time
+recommendations
+user_id
+
+- user
+displayname
+username
+member_since
+comments
+recommendations
+description
