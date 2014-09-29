@@ -4,7 +4,8 @@ title
 breadcrumb
 section (Indland)
 author
-date
+time
+update_time (både med og uden tidspunkt)
 subject
 organisation
 recommendations (users)
