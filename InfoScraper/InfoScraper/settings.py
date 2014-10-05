@@ -14,4 +14,6 @@ SPIDER_MODULES = ['InfoScraper.spiders']
 NEWSPIDER_MODULE = 'InfoScraper.spiders'
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-#USER_AGENT = 'InfoScraper (+http://www.yourdomain.com)'
+USER_AGENT = 'InfoScraperBot/0.1'
+
+DOWNLOAD_DELAY = 60.0
