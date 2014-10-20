@@ -1,5 +1,5 @@
 {
-"title": "InfoMine"
+"title": "InfoMine",
 "members": [
 { "name": "Rasmus Christiansen",
 "study_number": "s123344"
@@ -8,7 +8,7 @@
 "study_number": "s103214"
 }
 ],
-"git": "git@github.com:henrikholm89/dataMiningUsingPython.git",
-"description": "In this project the goal is to scrape a lot of comments from information.dk. These commeents will be labelled based on gender, depending on the name of the commentator. This dataset will then be trained as a supervised classification problem. A test dataset will be used (also scraped from information.dk) in order to test the accuracy of the classifier",
-"modules": ["nltk", "sklearn", "BeautifulSoup", "Scrapy?"]
-} 
+"git": "https://github.com/rluch/InfoMine",
+"description": "Prediction of Information.dk commenter gender using Machine learning. Project is likely to be extended with in depth linguistic- and topology-analysis.",
+"modules": ["nltk", "sklearn", "json", "numpy", "matplotlib"]
+}
